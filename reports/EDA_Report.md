@@ -194,6 +194,8 @@ This feature helps analyze whether traveling alone or with family affected survi
 
 This visualization shows the total number of passengers who survived and did not survive.
 
+![Survival Distribution](../results/survival_distribution.png)
+
 ### Observation
 
 - The number of non-survivors was higher than survivors.
@@ -206,6 +208,8 @@ This visualization shows the total number of passengers who survived and did not
 ### Analysis
 
 The survival rate was compared between male and female passengers.
+
+![Gender Survival Analysis](../results/gender_survival.png)
 
 ### Observation
 
@@ -220,6 +224,8 @@ The survival rate was compared between male and female passengers.
 
 Passenger survival was analyzed across different ticket classes.
 
+![Passenger Class Analysis](../results/class_survival.png)
+
 ### Observation
 
 - First-class passengers had better survival chances.
@@ -232,6 +238,8 @@ Passenger survival was analyzed across different ticket classes.
 ### Analysis
 
 Passenger age distribution was studied.
+
+![Age Distribution Analysis](../results/age_distribution.png)
 
 ### Observation
 
@@ -246,6 +254,8 @@ Passenger age distribution was studied.
 
 Ticket fare distribution was analyzed.
 
+![Fare Distribution Analysis](../results/fare_distribution.png)
+
 ### Observation
 
 - Most passengers paid lower fares.
@@ -259,6 +269,8 @@ Ticket fare distribution was analyzed.
 
 Family_Size was analyzed to understand the effect of traveling with family.
 
+![Family Size Analysis](../results/family_size_distribution.png)
+
 ### Observation
 
 - Many passengers traveled alone or with small families.
@@ -267,6 +279,8 @@ Family_Size was analyzed to understand the effect of traveling with family.
 ---
 
 ## 7. Family Size vs Survival
+
+![Family Size vs Survival](../results/family_size_survival.png)
 
 ### Observation
 
@@ -280,6 +294,8 @@ Family_Size was analyzed to understand the effect of traveling with family.
 ### Analysis
 
 A correlation heatmap was created to identify relationships between numerical variables.
+
+![Correlation Analysis](../results/correlation_heatmap.png)
 
 ### Observation
 
